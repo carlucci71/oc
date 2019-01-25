@@ -50,6 +50,7 @@
 				<version>2.6</version>
 				<configuration>
 					<failOnMissingWebXml>false</failOnMissingWebXml>
+                  <warName>ROOT2</warName>
 				</configuration>
 			</plugin>
 		</plugins>
